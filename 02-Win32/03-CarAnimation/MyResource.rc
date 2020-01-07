@@ -1,0 +1,5 @@
+#include"MyResource.h"
+
+Myicon ICON "TonyStark.ico"
+
+SONG WAVE "Start.wav"

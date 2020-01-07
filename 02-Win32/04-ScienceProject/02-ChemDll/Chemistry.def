@@ -1,0 +1,4 @@
+LIBRARY ChemistryThremodynamics
+EXPORTS
+	DllGetClassObject PRIVATE
+	DllCanUnloadNow PRIVATE

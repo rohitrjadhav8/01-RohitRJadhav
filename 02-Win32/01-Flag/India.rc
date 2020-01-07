@@ -1,0 +1,3 @@
+#include"India.h"
+
+MYICON ICON "IndiaFlag.ico"

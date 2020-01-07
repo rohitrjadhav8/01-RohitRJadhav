@@ -1,0 +1,3 @@
+LIBRARY PhyLawOfAttraction
+EXPORTS 
+		LawOfAttraction

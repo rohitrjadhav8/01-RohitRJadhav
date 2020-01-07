@@ -1,0 +1,26 @@
+#include"Resource.h"
+
+ID_HOUSE BITMAP HouseTex4.bmp
+ID_LAND BITMAP	HouseTex4.bmp
+ID_WATER BITMAP	HouseTex3.bmp
+ID_TREE BITMAP HouseTex.bmp
+
+HOUSE_1 BITMAP 1.bmp
+HOUSE_2 BITMAP 2.bmp
+HOUSE_3 BITMAP 3.bmp
+HOUSE_4 BITMAP 4.bmp
+HOUSE_5 BITMAP 5.bmp
+HOUSE_6 BITMAP 6.bmp
+HOUSE_7 BITMAP 7.bmp
+HOUSE_8 BITMAP 8.bmp
+HOUSE_9 BITMAP 9.bmp
+
+ID_CLOCK_HINT BITMAP ClockPuzzelHint.bmp
+ID_HOUSE_HINT BITMAP HousePuzzleHint.bmp
+
+
+//ID_ENDMUSIC WAVE MusicForGame4.wav
+ID_ENDMUSIC WAVE Ending.wav
+//ID_ENDMUSIC WAVE Playing.wav
+ID_STARTMUSIC WAVE StartingSound2.wav
+ID_PLAYING WAVE Playing.wav

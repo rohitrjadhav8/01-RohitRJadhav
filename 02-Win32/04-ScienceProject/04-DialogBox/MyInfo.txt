@@ -1,0 +1,14 @@
+In This Method We Calculate Efficiency Of Carrnot Engine With Help Of Temperture
+
+              T2-T1           T1:Temperture Of Isothermal Reversible Compression	   
+         n = --------                                                           
+                 T2             T2:Temperture Of Isothermal Reversible Expansion$In This Method We Calculate Efficiency Of Carrnot Engine With Help Of Heat
+
+                             q2-q1            q1 : Heat Released	   
+                        n = --------	
+                               q2               q2 : Heat Absorbed#In This Method We Calculate Efficiency Of Carrnot Engine With Help Of WorkDone
+
+                               W              W : Work Done on System	   
+                        n = ------	
+                               q2             q2 : Heat Absorbed@
+ 

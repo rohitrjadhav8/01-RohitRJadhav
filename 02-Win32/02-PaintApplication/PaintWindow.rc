@@ -1,0 +1,3 @@
+#include"PaintWindow.h"
+
+MYICON ICON "TonyStark.ico"

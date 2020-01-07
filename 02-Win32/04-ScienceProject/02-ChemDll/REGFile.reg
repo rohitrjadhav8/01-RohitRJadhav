@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{C9FEE2C2-08EA-49E5-A5D5-21BC5A390DEA}]
+@="ChemistryThemodynamicsDll"
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{C9FEE2C2-08EA-49E5-A5D5-21BC5A390DEA}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\ChemistryThremodynamics.dll"
